@@ -30,9 +30,9 @@ Definition of a rational agent
 A percept sequence refers to the sequence of perceptual inputs that an agent receives from its environment. Percepts are the raw sensory inputs, such as visual or auditory data, that the agent uses to perceive and understand its environment. The agent's decision-making and behavior are often based on the current and past percept sequences it has encountered.
 
 ### Breadth-First Search
-General Principle: FIFO (First-in First-Out)
+General Principle: FIFO (First-in First-Out) <br />
 Corresponding ADT: (FIFO) Queue
 
 ### Depth-First Search
-General Principle: LIFO (Last-in First-Out)
+General Principle: LIFO (Last-in First-Out) <br />
 Corresponding ADT: (LIFO Queue) Stack
