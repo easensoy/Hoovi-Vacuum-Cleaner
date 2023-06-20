@@ -11,4 +11,4 @@ S(2) = 3 <br />
 S(3) = 4 <br />
 S(4) = 5
 
-The successor function is a key building block in the Peano axioms, which provide an axiomatization of the natural numbers. 
+The successor function is a key building block in the Peano axioms, which provide an axiomatisation of the natural numbers. 
